@@ -1,0 +1,20 @@
+
+
+.header-picture{
+    text-align: center;
+    padding: 1%;
+}
+
+#page-content{
+    padding: 0%;
+    margin: 3%;
+}
+
+.header-sections{
+    text-align: center;
+    padding-bottom: 1%;
+}
+footer{
+    background-color: orangered;
+    padding: 2.5%;
+}
